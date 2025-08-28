@@ -1,0 +1,847 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Sri Lanka,LKA,2022,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,1
+Sri Lanka,LKA,2021,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,1
+Sri Lanka,LKA,2020,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,1
+Sri Lanka,LKA,2019,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,1
+Sri Lanka,LKA,2018,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,1
+Sri Lanka,LKA,2017,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,1
+Sri Lanka,LKA,2016,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,1
+Sri Lanka,LKA,2010,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,1
+Sri Lanka,LKA,2008,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,1
+Sri Lanka,LKA,2006,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,1
+Sri Lanka,LKA,2001,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,1
+Sri Lanka,LKA,1981,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,1
+Sri Lanka,LKA,2020,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00074994564056
+Sri Lanka,LKA,2019,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.995429992675781
+Sri Lanka,LKA,2018,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.989300012588501
+Sri Lanka,LKA,2017,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.985710024833679
+Sri Lanka,LKA,2016,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.978709995746613
+Sri Lanka,LKA,2015,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.978940010070801
+Sri Lanka,LKA,2014,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.977280020713806
+Sri Lanka,LKA,2013,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.976220011711121
+Sri Lanka,LKA,2012,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.976660013198853
+Sri Lanka,LKA,2011,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.960629999637604
+Sri Lanka,LKA,2010,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.975220024585724
+Sri Lanka,LKA,2009,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.982209980487823
+Sri Lanka,LKA,2008,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.986459970474243
+Sri Lanka,LKA,2007,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.988070011138916
+Sri Lanka,LKA,2006,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.990920007228851
+Sri Lanka,LKA,2005,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.994530022144318
+Sri Lanka,LKA,2004,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.06619000434875
+Sri Lanka,LKA,2003,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.994470000267029
+Sri Lanka,LKA,2002,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.98811000585556
+Sri Lanka,LKA,2001,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.984350025653839
+Sri Lanka,LKA,1998,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.978839993476868
+Sri Lanka,LKA,1996,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.975499987602234
+Sri Lanka,LKA,1995,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.970700025558472
+Sri Lanka,LKA,1994,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.97095000743866
+Sri Lanka,LKA,1993,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.971870005130768
+Sri Lanka,LKA,1992,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.967279970645905
+Sri Lanka,LKA,1991,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.966310024261475
+Sri Lanka,LKA,1990,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.966449975967407
+Sri Lanka,LKA,1989,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.967769980430603
+Sri Lanka,LKA,1988,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.965330004692078
+Sri Lanka,LKA,1987,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.96314001083374
+Sri Lanka,LKA,1986,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.965380012989044
+Sri Lanka,LKA,1985,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.964060008525848
+Sri Lanka,LKA,1984,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.963930010795593
+Sri Lanka,LKA,1983,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.962430000305176
+Sri Lanka,LKA,1982,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.963259994983673
+Sri Lanka,LKA,1981,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.958580017089844
+Sri Lanka,LKA,1980,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.95235002040863
+Sri Lanka,LKA,1978,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.922999978065491
+Sri Lanka,LKA,1977,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.923399984836578
+Sri Lanka,LKA,1976,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.922760009765625
+Sri Lanka,LKA,1975,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.919110000133514
+Sri Lanka,LKA,1971,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.996399998664856
+Sri Lanka,LKA,1970,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.910009980201721
+Sri Lanka,LKA,2018,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02416002750397
+Sri Lanka,LKA,2017,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02471995353699
+Sri Lanka,LKA,2016,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01145994663239
+Sri Lanka,LKA,2013,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01747000217438
+Sri Lanka,LKA,2012,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.0183299779892
+Sri Lanka,LKA,2011,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.995890021324158
+Sri Lanka,LKA,2010,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.997380018234253
+Sri Lanka,LKA,1995,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.0286500453949
+Sri Lanka,LKA,1994,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.03672003746033
+Sri Lanka,LKA,1993,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02930998802185
+Sri Lanka,LKA,1992,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02672004699707
+Sri Lanka,LKA,1991,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02661001682281
+Sri Lanka,LKA,1990,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02120995521545
+Sri Lanka,LKA,1989,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02107000350952
+Sri Lanka,LKA,1988,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02125000953674
+Sri Lanka,LKA,1987,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02188003063202
+Sri Lanka,LKA,1986,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02198004722595
+Sri Lanka,LKA,1985,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01777994632721
+Sri Lanka,LKA,1984,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01797997951508
+Sri Lanka,LKA,1983,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01531004905701
+Sri Lanka,LKA,1982,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01670002937317
+Sri Lanka,LKA,1981,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00952005386353
+Sri Lanka,LKA,1976,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.979610025882721
+Sri Lanka,LKA,2018,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.04683005809784
+Sri Lanka,LKA,2017,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.0514600276947
+Sri Lanka,LKA,2016,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.03437995910645
+Sri Lanka,LKA,2013,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.04642999172211
+Sri Lanka,LKA,2012,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.04752004146576
+Sri Lanka,LKA,2011,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.02037000656128
+Sri Lanka,LKA,2010,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.01268994808197
+Sri Lanka,LKA,1995,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.08103001117706
+Sri Lanka,LKA,1994,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.09640002250671
+Sri Lanka,LKA,1993,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.08429002761841
+Sri Lanka,LKA,1992,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.08680999279022
+Sri Lanka,LKA,1991,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.09171998500824
+Sri Lanka,LKA,1990,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.08064997196198
+Sri Lanka,LKA,1989,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.08053994178772
+Sri Lanka,LKA,1988,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.08477997779846
+Sri Lanka,LKA,1987,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.08946001529694
+Sri Lanka,LKA,1986,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.1152800321579
+Sri Lanka,LKA,1985,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.10755002498627
+Sri Lanka,LKA,1984,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.10908997058868
+Sri Lanka,LKA,1983,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.10712003707886
+Sri Lanka,LKA,1982,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.11334002017975
+Sri Lanka,LKA,1981,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.10273003578186
+Sri Lanka,LKA,1976,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.06167995929718
+Sri Lanka,LKA,2022,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.39707887172699
+Sri Lanka,LKA,2021,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.38230800628662
+Sri Lanka,LKA,2020,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.39931762218475
+Sri Lanka,LKA,2019,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.39371562004089
+Sri Lanka,LKA,2018,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.34265601634979
+Sri Lanka,LKA,2017,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.35345530509949
+Sri Lanka,LKA,2016,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.36694824695587
+Sri Lanka,LKA,2015,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.35691797733307
+Sri Lanka,LKA,2014,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.22692060470581
+Sri Lanka,LKA,2013,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.35024058818817
+Sri Lanka,LKA,2012,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.36601614952087
+Sri Lanka,LKA,2011,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.4036055803299
+Sri Lanka,LKA,2010,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.43407618999481
+Sri Lanka,LKA,1994,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.495429992675781
+Sri Lanka,LKA,1986,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.708570003509521
+Sri Lanka,LKA,1985,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.697790026664734
+Sri Lanka,LKA,1984,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.668799996376038
+Sri Lanka,LKA,1983,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.680180013179779
+Sri Lanka,LKA,1981,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.768490016460419
+Sri Lanka,LKA,1979,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.619660019874573
+Sri Lanka,LKA,1978,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.558839976787567
+Sri Lanka,LKA,1977,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.574440002441406
+Sri Lanka,LKA,1975,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.572350025177002
+Sri Lanka,LKA,1974,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.613749980926514
+Sri Lanka,LKA,1973,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.634630024433136
+Sri Lanka,LKA,1971,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.658749997615814
+Sri Lanka,LKA,1970,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.784650027751923
+Sri Lanka,LKA,2024,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,10
+Sri Lanka,LKA,2023,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,5.33333333333333
+Sri Lanka,LKA,2022,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,5.33333333333333
+Sri Lanka,LKA,2021,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,5.38116591928251
+Sri Lanka,LKA,2020,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,5.38116591928251
+Sri Lanka,LKA,2019,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,5.33333333333333
+Sri Lanka,LKA,2018,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,5.77777777777778
+Sri Lanka,LKA,2017,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,5.77777777777778
+Sri Lanka,LKA,2016,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,5.77777777777778
+Sri Lanka,LKA,2015,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,4.88888888888889
+Sri Lanka,LKA,2014,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,5.77777777777778
+Sri Lanka,LKA,2013,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,5.77777777777778
+Sri Lanka,LKA,2012,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,5.77777777777778
+Sri Lanka,LKA,2011,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,5.77777777777778
+Sri Lanka,LKA,2010,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,5.33333333333333
+Sri Lanka,LKA,2009,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,5.77777777777778
+Sri Lanka,LKA,2008,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,5.77777777777778
+Sri Lanka,LKA,2007,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,5.77777777777778
+Sri Lanka,LKA,2006,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,4.88888888888889
+Sri Lanka,LKA,2005,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,4.88888888888889
+Sri Lanka,LKA,2004,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,4.88888888888889
+Sri Lanka,LKA,2003,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,4.44444444444444
+Sri Lanka,LKA,2002,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,4.44444444444444
+Sri Lanka,LKA,1999,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,4.88888888888889
+Sri Lanka,LKA,1998,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,5.33333333333333
+Sri Lanka,LKA,1997,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,5.33333333333333
+Sri Lanka,LKA,2022,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,2021,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,2020,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,2019,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,2018,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,2017,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,2016,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,2015,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,2014,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,2013,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,2012,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,2011,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,2010,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,2009,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,2008,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,2007,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,2006,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,2005,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,2004,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,2003,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,2002,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,2001,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,2000,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,1999,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,1998,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,1997,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,1996,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,1995,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,1994,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,1993,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,1992,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,1991,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,1990,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Sri Lanka,LKA,2022,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,2021,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,2020,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,2019,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,2018,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,2017,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,2016,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,2015,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,2014,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,2013,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,2012,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,2011,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,2010,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,2009,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,2008,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,2007,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,2006,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,2005,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,2004,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,2003,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,2002,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,2001,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,2000,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,1999,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,1998,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,1997,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,1996,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,1995,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,1994,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,1993,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,1992,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,1991,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,1990,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Sri Lanka,LKA,2023,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,38.5501058603481
+Sri Lanka,LKA,2022,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,39.0893185747966
+Sri Lanka,LKA,2021,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,40.6857809425611
+Sri Lanka,LKA,2020,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,40.3917674052259
+Sri Lanka,LKA,2019,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,41.0794141743952
+Sri Lanka,LKA,2018,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,41.4154622864037
+Sri Lanka,LKA,2017,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,43.5041929539978
+Sri Lanka,LKA,2016,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,43.4801460013927
+Sri Lanka,LKA,2015,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,44.0485532395604
+Sri Lanka,LKA,2014,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,43.6141086317186
+Sri Lanka,LKA,2013,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,44.4284339256218
+Sri Lanka,LKA,2012,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,43.2091801019836
+Sri Lanka,LKA,2011,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,45.9700127852466
+Sri Lanka,LKA,2010,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,45.1364158535228
+Sri Lanka,LKA,2009,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,44.8264708943454
+Sri Lanka,LKA,2008,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,45.1727643697331
+Sri Lanka,LKA,2007,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,44.5758649542831
+Sri Lanka,LKA,2006,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,44.9939996676739
+Sri Lanka,LKA,2005,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,40.9344014581572
+Sri Lanka,LKA,2004,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,38.5477796231269
+Sri Lanka,LKA,2003,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,40.0520466935155
+Sri Lanka,LKA,2002,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,40.6053742629674
+Sri Lanka,LKA,2001,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,39.4449554536204
+Sri Lanka,LKA,2000,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,43.8983849447307
+Sri Lanka,LKA,1999,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,42.4563512243231
+Sri Lanka,LKA,1998,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,44.2115129453715
+Sri Lanka,LKA,1997,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,37.363055089867
+Sri Lanka,LKA,1996,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,38.2007288590961
+Sri Lanka,LKA,1995,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,37.9764221765
+Sri Lanka,LKA,1994,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,37.3830089668599
+Sri Lanka,LKA,1993,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,37.0631659750014
+Sri Lanka,LKA,1992,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,36.8428102768435
+Sri Lanka,LKA,1991,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,36.4210709822318
+Sri Lanka,LKA,2023,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,39.0481597573395
+Sri Lanka,LKA,2022,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,39.049835466814
+Sri Lanka,LKA,2021,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,39.672615712876
+Sri Lanka,LKA,2020,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,39.8348704834537
+Sri Lanka,LKA,2019,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,38.7525902014799
+Sri Lanka,LKA,2018,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,38.4830564781701
+Sri Lanka,LKA,2017,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,37.1397779899227
+Sri Lanka,LKA,2016,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,37.424457741014
+Sri Lanka,LKA,2015,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,39.1016750831604
+Sri Lanka,LKA,2014,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,38.5463641245682
+Sri Lanka,LKA,2013,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,38.8137188371668
+Sri Lanka,LKA,2012,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,39.5962952831066
+Sri Lanka,LKA,2011,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,40.1692621448819
+Sri Lanka,LKA,2010,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,40.2749539858756
+Sri Lanka,LKA,2009,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,37.4078333744537
+Sri Lanka,LKA,2008,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,39.0723328101392
+Sri Lanka,LKA,2007,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,38.8575698068302
+Sri Lanka,LKA,2006,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,39.5670166224363
+Sri Lanka,LKA,2005,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,36.0974794064756
+Sri Lanka,LKA,2004,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,37.1841023841805
+Sri Lanka,LKA,2003,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,39.2311915365692
+Sri Lanka,LKA,2002,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,38.7684044302973
+Sri Lanka,LKA,2001,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,38.9472003336135
+Sri Lanka,LKA,2000,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,40.2563285033965
+Sri Lanka,LKA,1999,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,39.6310819222689
+Sri Lanka,LKA,1998,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,41.6364186327889
+Sri Lanka,LKA,1997,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,38.6362219554736
+Sri Lanka,LKA,1996,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,38.9801235000478
+Sri Lanka,LKA,1995,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,39.0610336932303
+Sri Lanka,LKA,1994,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,39.1435348435122
+Sri Lanka,LKA,1993,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,39.0980191705975
+Sri Lanka,LKA,1992,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,39.1062912542354
+Sri Lanka,LKA,1991,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,39.2657938112718
+Sri Lanka,LKA,2009,"Children in employment, female (% of female children ages 7-14)",SL.TLF.0714.FE.ZS,8.5
+Sri Lanka,LKA,1999,"Children in employment, female (% of female children ages 7-14)",SL.TLF.0714.FE.ZS,13.4
+Sri Lanka,LKA,2009,"Children in employment, male (% of male children ages 7-14)",SL.TLF.0714.MA.ZS,13
+Sri Lanka,LKA,1999,"Children in employment, male (% of male children ages 7-14)",SL.TLF.0714.MA.ZS,20.4
+Sri Lanka,LKA,2009,"Children in employment, study and work, female (% of female children in employment, ages 7-14)",SL.TLF.0714.SW.FE.ZS,98.7050121070676
+Sri Lanka,LKA,1999,"Children in employment, study and work, female (% of female children in employment, ages 7-14)",SL.TLF.0714.SW.FE.ZS,95.3
+Sri Lanka,LKA,2009,"Children in employment, study and work, male (% of male children in employment, ages 7-14)",SL.TLF.0714.SW.MA.ZS,95.6209201263724
+Sri Lanka,LKA,1999,"Children in employment, study and work, male (% of male children in employment, ages 7-14)",SL.TLF.0714.SW.MA.ZS,94.1
+Sri Lanka,LKA,2009,"Children in employment, study and work (% of children in employment, ages 7-14)",SL.TLF.0714.SW.ZS,96.8290258836823
+Sri Lanka,LKA,1999,"Children in employment, study and work (% of children in employment, ages 7-14)",SL.TLF.0714.SW.ZS,94.6
+Sri Lanka,LKA,2009,"Children in employment, work only, female (% of female children in employment, ages 7-14)",SL.TLF.0714.WK.FE.ZS,1.29498789293242
+Sri Lanka,LKA,1999,"Children in employment, work only, female (% of female children in employment, ages 7-14)",SL.TLF.0714.WK.FE.ZS,4.7
+Sri Lanka,LKA,2009,"Children in employment, work only, male (% of male children in employment, ages 7-14)",SL.TLF.0714.WK.MA.ZS,4.37907987362762
+Sri Lanka,LKA,1999,"Children in employment, work only, male (% of male children in employment, ages 7-14)",SL.TLF.0714.WK.MA.ZS,5.9
+Sri Lanka,LKA,2009,"Children in employment, work only (% of children in employment, ages 7-14)",SL.TLF.0714.WK.ZS,3.17097411631773
+Sri Lanka,LKA,1999,"Children in employment, work only (% of children in employment, ages 7-14)",SL.TLF.0714.WK.ZS,5.4
+Sri Lanka,LKA,2009,"Children in employment, total (% of children ages 7-14)",SL.TLF.0714.ZS,10.7
+Sri Lanka,LKA,1999,"Children in employment, total (% of children ages 7-14)",SL.TLF.0714.ZS,17
+Sri Lanka,LKA,2024,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,17.776
+Sri Lanka,LKA,2023,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,17.87
+Sri Lanka,LKA,2022,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,17.579
+Sri Lanka,LKA,2021,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,17.639
+Sri Lanka,LKA,2020,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,19.447
+Sri Lanka,LKA,2019,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,21.541
+Sri Lanka,LKA,2018,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,20.527
+Sri Lanka,LKA,2017,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,23.792
+Sri Lanka,LKA,2016,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,22.905
+Sri Lanka,LKA,2015,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,24.749
+Sri Lanka,LKA,2014,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,22.178
+Sri Lanka,LKA,2013,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,23.17
+Sri Lanka,LKA,2012,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,22.732
+Sri Lanka,LKA,2011,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,23.291
+Sri Lanka,LKA,2010,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,24.729
+Sri Lanka,LKA,2009,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,25.388
+Sri Lanka,LKA,2008,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,26.018
+Sri Lanka,LKA,2007,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,26.63
+Sri Lanka,LKA,2006,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,27.227
+Sri Lanka,LKA,2005,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,27.818
+Sri Lanka,LKA,2004,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,28.41
+Sri Lanka,LKA,2003,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,29.012
+Sri Lanka,LKA,2002,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,29.63
+Sri Lanka,LKA,2001,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,30.271
+Sri Lanka,LKA,2000,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,30.936
+Sri Lanka,LKA,1999,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,35.678
+Sri Lanka,LKA,1998,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,41.598
+Sri Lanka,LKA,1997,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,33.32
+Sri Lanka,LKA,1996,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,33.83
+Sri Lanka,LKA,1995,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,34.877
+Sri Lanka,LKA,1994,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,40.393
+Sri Lanka,LKA,1993,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,39.454
+Sri Lanka,LKA,1992,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,36.783
+Sri Lanka,LKA,1991,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,41.533
+Sri Lanka,LKA,1990,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,46.34
+Sri Lanka,LKA,2024,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,32.587
+Sri Lanka,LKA,2023,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,32.981
+Sri Lanka,LKA,2022,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,32.521
+Sri Lanka,LKA,2021,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,34.524
+Sri Lanka,LKA,2020,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,38.165
+Sri Lanka,LKA,2019,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,39.27
+Sri Lanka,LKA,2018,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,39.097
+Sri Lanka,LKA,2017,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,41.625
+Sri Lanka,LKA,2016,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,42.045
+Sri Lanka,LKA,2015,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,42.046
+Sri Lanka,LKA,2014,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,40.582
+Sri Lanka,LKA,2013,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,42.756
+Sri Lanka,LKA,2012,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,44.338
+Sri Lanka,LKA,2011,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,44.522
+Sri Lanka,LKA,2010,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,45.176
+Sri Lanka,LKA,2009,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,46.171
+Sri Lanka,LKA,2008,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,47.182
+Sri Lanka,LKA,2007,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,48.21
+Sri Lanka,LKA,2006,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,49.256
+Sri Lanka,LKA,2005,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,50.32
+Sri Lanka,LKA,2004,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,51.401
+Sri Lanka,LKA,2003,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,52.496
+Sri Lanka,LKA,2002,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,53.599
+Sri Lanka,LKA,2001,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,54.715
+Sri Lanka,LKA,2000,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,55.839
+Sri Lanka,LKA,1999,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,58.865
+Sri Lanka,LKA,1998,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,56.59
+Sri Lanka,LKA,1997,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,54.193
+Sri Lanka,LKA,1996,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,53.802
+Sri Lanka,LKA,1995,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,51.331
+Sri Lanka,LKA,1994,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,59.306
+Sri Lanka,LKA,1993,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,54.932
+Sri Lanka,LKA,1992,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,58.938
+Sri Lanka,LKA,1991,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,58.695
+Sri Lanka,LKA,1990,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,58.428
+Sri Lanka,LKA,2024,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,25.269
+Sri Lanka,LKA,2023,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,25.516
+Sri Lanka,LKA,2022,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,25.14
+Sri Lanka,LKA,2021,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,26.181
+Sri Lanka,LKA,2020,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,28.913
+Sri Lanka,LKA,2019,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,30.499
+Sri Lanka,LKA,2018,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,29.896
+Sri Lanka,LKA,2017,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,32.77
+Sri Lanka,LKA,2016,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,32.514
+Sri Lanka,LKA,2015,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,33.401
+Sri Lanka,LKA,2014,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,31.346
+Sri Lanka,LKA,2013,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,32.883
+Sri Lanka,LKA,2012,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,33.399
+Sri Lanka,LKA,2011,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,33.745
+Sri Lanka,LKA,2010,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,34.797
+Sri Lanka,LKA,2009,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,35.637
+Sri Lanka,LKA,2008,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,36.484
+Sri Lanka,LKA,2007,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,37.337
+Sri Lanka,LKA,2006,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,38.196
+Sri Lanka,LKA,2005,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,39.062
+Sri Lanka,LKA,2004,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,39.933
+Sri Lanka,LKA,2003,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,40.812
+Sri Lanka,LKA,2002,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,41.696
+Sri Lanka,LKA,2001,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,42.587
+Sri Lanka,LKA,2000,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,43.483
+Sri Lanka,LKA,1999,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,47.359
+Sri Lanka,LKA,1998,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,49.152
+Sri Lanka,LKA,1997,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,43.841
+Sri Lanka,LKA,1996,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,43.903
+Sri Lanka,LKA,1995,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,43.182
+Sri Lanka,LKA,1994,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,49.943
+Sri Lanka,LKA,1993,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,47.269
+Sri Lanka,LKA,1992,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,47.975
+Sri Lanka,LKA,1991,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,50.209
+Sri Lanka,LKA,1990,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,52.452
+Sri Lanka,LKA,2024,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,35.916
+Sri Lanka,LKA,2023,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,35.847
+Sri Lanka,LKA,2022,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,35.722
+Sri Lanka,LKA,2021,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,35.492
+Sri Lanka,LKA,2020,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,35.526
+Sri Lanka,LKA,2019,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,37.979
+Sri Lanka,LKA,2018,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,36.869
+Sri Lanka,LKA,2017,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,39.961
+Sri Lanka,LKA,2016,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,38.996
+Sri Lanka,LKA,2015,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,39.127
+Sri Lanka,LKA,2014,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,36.593
+Sri Lanka,LKA,2013,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,37.033
+Sri Lanka,LKA,2012,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,35.706
+Sri Lanka,LKA,2011,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,36.954
+Sri Lanka,LKA,2010,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,37.127
+Sri Lanka,LKA,2009,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,37.331
+Sri Lanka,LKA,2008,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,37.534
+Sri Lanka,LKA,2007,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,37.742
+Sri Lanka,LKA,2006,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,37.957
+Sri Lanka,LKA,2005,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,38.182
+Sri Lanka,LKA,2004,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,38.415
+Sri Lanka,LKA,2003,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,38.652
+Sri Lanka,LKA,2002,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,38.888
+Sri Lanka,LKA,2001,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,39.132
+Sri Lanka,LKA,2000,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,39.389
+Sri Lanka,LKA,1999,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,40.811
+Sri Lanka,LKA,1998,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,44.835
+Sri Lanka,LKA,1997,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,38.166
+Sri Lanka,LKA,1996,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,38.411
+Sri Lanka,LKA,1995,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,38.538
+Sri Lanka,LKA,1994,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,41.048
+Sri Lanka,LKA,1993,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,40.782
+Sri Lanka,LKA,1992,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,39.92
+Sri Lanka,LKA,1991,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,44.35
+Sri Lanka,LKA,1990,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,48.802
+Sri Lanka,LKA,2024,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,74.803
+Sri Lanka,LKA,2023,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,74.836
+Sri Lanka,LKA,2022,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,74.558
+Sri Lanka,LKA,2021,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,74.985
+Sri Lanka,LKA,2020,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,75.791
+Sri Lanka,LKA,2019,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.728
+Sri Lanka,LKA,2018,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.789
+Sri Lanka,LKA,2017,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.855
+Sri Lanka,LKA,2016,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.18
+Sri Lanka,LKA,2015,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.856
+Sri Lanka,LKA,2014,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,75.962
+Sri Lanka,LKA,2013,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,75.87
+Sri Lanka,LKA,2012,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.314
+Sri Lanka,LKA,2011,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.546
+Sri Lanka,LKA,2010,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.968
+Sri Lanka,LKA,2009,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.012
+Sri Lanka,LKA,2008,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.057
+Sri Lanka,LKA,2007,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.11
+Sri Lanka,LKA,2006,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.169
+Sri Lanka,LKA,2005,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.236
+Sri Lanka,LKA,2004,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.315
+Sri Lanka,LKA,2003,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.4
+Sri Lanka,LKA,2002,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.492
+Sri Lanka,LKA,2001,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.607
+Sri Lanka,LKA,2000,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.751
+Sri Lanka,LKA,1999,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,80.981
+Sri Lanka,LKA,1998,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,80.179
+Sri Lanka,LKA,1997,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.985
+Sri Lanka,LKA,1996,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,79.021
+Sri Lanka,LKA,1995,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.67
+Sri Lanka,LKA,1994,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,79.785
+Sri Lanka,LKA,1993,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,79.206
+Sri Lanka,LKA,1992,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,79.747
+Sri Lanka,LKA,1991,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,80.45
+Sri Lanka,LKA,1990,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,81.006
+Sri Lanka,LKA,2024,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,54.888
+Sri Lanka,LKA,2023,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,54.854
+Sri Lanka,LKA,2022,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,54.639
+Sri Lanka,LKA,2021,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,54.716
+Sri Lanka,LKA,2020,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,55.114
+Sri Lanka,LKA,2019,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,56.817
+Sri Lanka,LKA,2018,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,56.264
+Sri Lanka,LKA,2017,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,58.361
+Sri Lanka,LKA,2016,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,58.012
+Sri Lanka,LKA,2015,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,57.913
+Sri Lanka,LKA,2014,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,55.681
+Sri Lanka,LKA,2013,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,55.855
+Sri Lanka,LKA,2012,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,56.349
+Sri Lanka,LKA,2011,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,56.637
+Sri Lanka,LKA,2010,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,56.973
+Sri Lanka,LKA,2009,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,57.153
+Sri Lanka,LKA,2008,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,57.336
+Sri Lanka,LKA,2007,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,57.521
+Sri Lanka,LKA,2006,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,57.71
+Sri Lanka,LKA,2005,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,57.905
+Sri Lanka,LKA,2004,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,58.106
+Sri Lanka,LKA,2003,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,58.311
+Sri Lanka,LKA,2002,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,58.516
+Sri Lanka,LKA,2001,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,58.726
+Sri Lanka,LKA,2000,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,58.946
+Sri Lanka,LKA,1999,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,60.786
+Sri Lanka,LKA,1998,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,62.426
+Sri Lanka,LKA,1997,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,58.503
+Sri Lanka,LKA,1996,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,58.664
+Sri Lanka,LKA,1995,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,58.075
+Sri Lanka,LKA,1994,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,60.409
+Sri Lanka,LKA,1993,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,60.008
+Sri Lanka,LKA,1992,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,59.874
+Sri Lanka,LKA,1991,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,62.467
+Sri Lanka,LKA,1990,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,64.991
+Sri Lanka,LKA,2024,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,31.567
+Sri Lanka,LKA,2023,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,31.619
+Sri Lanka,LKA,2022,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,31.604
+Sri Lanka,LKA,2021,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,31.329
+Sri Lanka,LKA,2020,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,31.663
+Sri Lanka,LKA,2019,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,34.051
+Sri Lanka,LKA,2018,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,33.105
+Sri Lanka,LKA,2017,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,36.093
+Sri Lanka,LKA,2016,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,35.252
+Sri Lanka,LKA,2015,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,35.33
+Sri Lanka,LKA,2014,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,33.211
+Sri Lanka,LKA,2013,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,33.869
+Sri Lanka,LKA,2012,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,32.649
+Sri Lanka,LKA,2011,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,33.947
+Sri Lanka,LKA,2010,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,33.965
+Sri Lanka,LKA,2009,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,34.191
+Sri Lanka,LKA,2008,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,34.415
+Sri Lanka,LKA,2007,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,34.644
+Sri Lanka,LKA,2006,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,34.876
+Sri Lanka,LKA,2005,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,35.111
+Sri Lanka,LKA,2004,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,35.35
+Sri Lanka,LKA,2003,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,35.59
+Sri Lanka,LKA,2002,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,35.831
+Sri Lanka,LKA,2001,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,36.077
+Sri Lanka,LKA,2000,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,36.331
+Sri Lanka,LKA,1999,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,37.649
+Sri Lanka,LKA,1998,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,41.33
+Sri Lanka,LKA,1997,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,35.263
+Sri Lanka,LKA,1996,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,35.489
+Sri Lanka,LKA,1995,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,35.6
+Sri Lanka,LKA,1994,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,37.9
+Sri Lanka,LKA,1993,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,37.676
+Sri Lanka,LKA,1992,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,36.913
+Sri Lanka,LKA,1991,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,41.002
+Sri Lanka,LKA,1990,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,45.149
+Sri Lanka,LKA,2024,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,69.698
+Sri Lanka,LKA,2023,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,69.836
+Sri Lanka,LKA,2022,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,69.622
+Sri Lanka,LKA,2021,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,70.141
+Sri Lanka,LKA,2020,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,71.145
+Sri Lanka,LKA,2019,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,72.195
+Sri Lanka,LKA,2018,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,72.113
+Sri Lanka,LKA,2017,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,73.583
+Sri Lanka,LKA,2016,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,73.933
+Sri Lanka,LKA,2015,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,73.716
+Sri Lanka,LKA,2014,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,71.684
+Sri Lanka,LKA,2013,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,71.9
+Sri Lanka,LKA,2012,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,74.294
+Sri Lanka,LKA,2011,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,73.44
+Sri Lanka,LKA,2010,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,74.203
+Sri Lanka,LKA,2009,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,74.303
+Sri Lanka,LKA,2008,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,74.399
+Sri Lanka,LKA,2007,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,74.501
+Sri Lanka,LKA,2006,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,74.609
+Sri Lanka,LKA,2005,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,74.722
+Sri Lanka,LKA,2004,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,74.84
+Sri Lanka,LKA,2003,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,74.959
+Sri Lanka,LKA,2002,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,75.079
+Sri Lanka,LKA,2001,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,75.208
+Sri Lanka,LKA,2000,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,75.35
+Sri Lanka,LKA,1999,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,77.467
+Sri Lanka,LKA,1998,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,76.698
+Sri Lanka,LKA,1997,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,75.598
+Sri Lanka,LKA,1996,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,75.63
+Sri Lanka,LKA,1995,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,74.412
+Sri Lanka,LKA,1994,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,76.367
+Sri Lanka,LKA,1993,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,75.879
+Sri Lanka,LKA,1992,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,76.366
+Sri Lanka,LKA,1991,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,77.063
+Sri Lanka,LKA,1990,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,77.627
+Sri Lanka,LKA,2024,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.978
+Sri Lanka,LKA,2023,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,9.396
+Sri Lanka,LKA,2022,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,6.268
+Sri Lanka,LKA,2021,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.698
+Sri Lanka,LKA,2020,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,8.251
+Sri Lanka,LKA,2019,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.331
+Sri Lanka,LKA,2018,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,6.966
+Sri Lanka,LKA,2017,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,6.321
+Sri Lanka,LKA,2016,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,6.836
+Sri Lanka,LKA,2015,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.445
+Sri Lanka,LKA,2014,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,6.304
+Sri Lanka,LKA,2013,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,6.505
+Sri Lanka,LKA,2012,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,6.16
+Sri Lanka,LKA,2011,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,6.978
+Sri Lanka,LKA,2010,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.476
+Sri Lanka,LKA,2009,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,8.781
+Sri Lanka,LKA,2008,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,8.244
+Sri Lanka,LKA,2007,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,9.174
+Sri Lanka,LKA,2006,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,9.937
+Sri Lanka,LKA,2005,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,11.93
+Sri Lanka,LKA,2004,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,12.951
+Sri Lanka,LKA,2003,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,12.889
+Sri Lanka,LKA,2002,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,13.03
+Sri Lanka,LKA,2001,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,11.422
+Sri Lanka,LKA,2000,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,11.465
+Sri Lanka,LKA,1999,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,13.353
+Sri Lanka,LKA,1998,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,13.714
+Sri Lanka,LKA,1997,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,16.438
+Sri Lanka,LKA,1996,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,17.745
+Sri Lanka,LKA,1995,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,19.281
+Sri Lanka,LKA,1994,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,20.476
+Sri Lanka,LKA,1993,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,21.851
+Sri Lanka,LKA,1992,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,22.617
+Sri Lanka,LKA,1991,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,22.903
+Sri Lanka,LKA,2024,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.513
+Sri Lanka,LKA,2023,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,4.307
+Sri Lanka,LKA,2022,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.661
+Sri Lanka,LKA,2021,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.649
+Sri Lanka,LKA,2020,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.955
+Sri Lanka,LKA,2019,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.294
+Sri Lanka,LKA,2018,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.986
+Sri Lanka,LKA,2017,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.824
+Sri Lanka,LKA,2016,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.889
+Sri Lanka,LKA,2015,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.986
+Sri Lanka,LKA,2014,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.071
+Sri Lanka,LKA,2013,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.994
+Sri Lanka,LKA,2012,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.787
+Sri Lanka,LKA,2011,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.681
+Sri Lanka,LKA,2010,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.451
+Sri Lanka,LKA,2009,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,4.401
+Sri Lanka,LKA,2008,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.727
+Sri Lanka,LKA,2007,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,4.389
+Sri Lanka,LKA,2006,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,4.804
+Sri Lanka,LKA,2005,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,5.569
+Sri Lanka,LKA,2004,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,6.124
+Sri Lanka,LKA,2003,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,5.915
+Sri Lanka,LKA,2002,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,6.651
+Sri Lanka,LKA,2001,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,6.158
+Sri Lanka,LKA,2000,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,5.893
+Sri Lanka,LKA,1999,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,6.651
+Sri Lanka,LKA,1998,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,6.667
+Sri Lanka,LKA,1997,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,7.825
+Sri Lanka,LKA,1996,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,8.301
+Sri Lanka,LKA,1995,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,8.872
+Sri Lanka,LKA,1994,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,9.299
+Sri Lanka,LKA,1993,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,9.809
+Sri Lanka,LKA,1992,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,10.153
+Sri Lanka,LKA,1991,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,10.288
+Sri Lanka,LKA,2023,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,15.091
+Sri Lanka,LKA,2022,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,15.122
+Sri Lanka,LKA,2021,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,15.401
+Sri Lanka,LKA,2020,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,15.465
+Sri Lanka,LKA,2019,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,15.602
+Sri Lanka,LKA,2018,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,15.778
+Sri Lanka,LKA,2017,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,16.218
+Sri Lanka,LKA,2016,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,16.485
+Sri Lanka,LKA,2015,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,17.041
+Sri Lanka,LKA,2014,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,18.08
+Sri Lanka,LKA,2013,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,19.785
+Sri Lanka,LKA,2012,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,20.875
+Sri Lanka,LKA,2011,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,21.316
+Sri Lanka,LKA,2010,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,21.712
+Sri Lanka,LKA,2009,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,21.564
+Sri Lanka,LKA,2008,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,20.864
+Sri Lanka,LKA,2007,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,21.706
+Sri Lanka,LKA,2006,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,22.235
+Sri Lanka,LKA,2005,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,24.289
+Sri Lanka,LKA,2004,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,26.33
+Sri Lanka,LKA,2003,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,27.838
+Sri Lanka,LKA,2002,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,29.29
+Sri Lanka,LKA,2001,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,30.212
+Sri Lanka,LKA,2000,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,29.844
+Sri Lanka,LKA,1999,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,28.917
+Sri Lanka,LKA,1998,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,27.759
+Sri Lanka,LKA,1997,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,28.134
+Sri Lanka,LKA,1996,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,28.339
+Sri Lanka,LKA,1995,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,29.03
+Sri Lanka,LKA,1994,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,28.844
+Sri Lanka,LKA,1993,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,28.239
+Sri Lanka,LKA,1992,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,28.185
+Sri Lanka,LKA,1991,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,28.567
+Sri Lanka,LKA,1990,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,29.717
+Sri Lanka,LKA,1989,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,30.675
+Sri Lanka,LKA,1988,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,30.105
+Sri Lanka,LKA,1987,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,31.656
+Sri Lanka,LKA,1986,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,33.157
+Sri Lanka,LKA,1985,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,33.713
+Sri Lanka,LKA,1984,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,34.839
+Sri Lanka,LKA,1983,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,35.926
+Sri Lanka,LKA,1982,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,37.839
+Sri Lanka,LKA,1981,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,37.27
+Sri Lanka,LKA,1980,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,37.457
+Sri Lanka,LKA,1979,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,41.052
+Sri Lanka,LKA,1978,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,39.148
+Sri Lanka,LKA,1977,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,37.51
+Sri Lanka,LKA,1976,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,37.494
+Sri Lanka,LKA,1975,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,36.243
+Sri Lanka,LKA,1974,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,36.65
+Sri Lanka,LKA,1973,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,37.501
+Sri Lanka,LKA,1972,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,38.945
+Sri Lanka,LKA,1971,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,42.383
+Sri Lanka,LKA,1970,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,45.596
+Sri Lanka,LKA,1969,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,46.631
+Sri Lanka,LKA,1968,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,49.454
+Sri Lanka,LKA,1967,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,49.86
+Sri Lanka,LKA,1966,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,49.895
+Sri Lanka,LKA,1965,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,52.642
+Sri Lanka,LKA,1964,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,55.831
+Sri Lanka,LKA,1963,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,61.007
+Sri Lanka,LKA,1962,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,64.743
+Sri Lanka,LKA,1961,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,68.959
+Sri Lanka,LKA,1960,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,70.963
+Sri Lanka,LKA,2023,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.593
+Sri Lanka,LKA,2022,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.451
+Sri Lanka,LKA,2021,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.522
+Sri Lanka,LKA,2020,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.066
+Sri Lanka,LKA,2019,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.888
+Sri Lanka,LKA,2018,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.812
+Sri Lanka,LKA,2017,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.592
+Sri Lanka,LKA,2016,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.507
+Sri Lanka,LKA,2015,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.395
+Sri Lanka,LKA,2014,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.194
+Sri Lanka,LKA,2013,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.934
+Sri Lanka,LKA,2012,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.624
+Sri Lanka,LKA,2011,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.342
+Sri Lanka,LKA,2010,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.2
+Sri Lanka,LKA,2009,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.335
+Sri Lanka,LKA,2008,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.69
+Sri Lanka,LKA,2007,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.34
+Sri Lanka,LKA,2006,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.173
+Sri Lanka,LKA,2005,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.061
+Sri Lanka,LKA,2004,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,71.037
+Sri Lanka,LKA,2003,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.624
+Sri Lanka,LKA,2002,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.734
+Sri Lanka,LKA,2001,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.481
+Sri Lanka,LKA,2000,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.292
+Sri Lanka,LKA,1999,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.762
+Sri Lanka,LKA,1998,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.49
+Sri Lanka,LKA,1997,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.251
+Sri Lanka,LKA,1996,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.041
+Sri Lanka,LKA,1995,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.041
+Sri Lanka,LKA,1994,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.963
+Sri Lanka,LKA,1993,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.777
+Sri Lanka,LKA,1992,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.574
+Sri Lanka,LKA,1991,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.359
+Sri Lanka,LKA,1990,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.187
+Sri Lanka,LKA,1989,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.86
+Sri Lanka,LKA,1988,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.689
+Sri Lanka,LKA,1987,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.421
+Sri Lanka,LKA,1986,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.158
+Sri Lanka,LKA,1985,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.863
+Sri Lanka,LKA,1984,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.503
+Sri Lanka,LKA,1983,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.101
+Sri Lanka,LKA,1982,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,71.784
+Sri Lanka,LKA,1981,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,71.33
+Sri Lanka,LKA,1980,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,70.808
+Sri Lanka,LKA,1979,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,70.232
+Sri Lanka,LKA,1978,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,69.439
+Sri Lanka,LKA,1977,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,68.956
+Sri Lanka,LKA,1976,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,68.324
+Sri Lanka,LKA,1975,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,67.812
+Sri Lanka,LKA,1974,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,67.366
+Sri Lanka,LKA,1973,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,67.129
+Sri Lanka,LKA,1972,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,66.931
+Sri Lanka,LKA,1971,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,66.75
+Sri Lanka,LKA,1970,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,66.64
+Sri Lanka,LKA,1969,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,66.443
+Sri Lanka,LKA,1968,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,66.195
+Sri Lanka,LKA,1967,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,65.887
+Sri Lanka,LKA,1966,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,65.431
+Sri Lanka,LKA,1965,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,65.02
+Sri Lanka,LKA,1964,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,64.522
+Sri Lanka,LKA,1963,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,64.122
+Sri Lanka,LKA,1962,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,63.648
+Sri Lanka,LKA,1961,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,63.15
+Sri Lanka,LKA,1960,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,62.6
+Sri Lanka,LKA,2023,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.244
+Sri Lanka,LKA,2022,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.033
+Sri Lanka,LKA,2021,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.97
+Sri Lanka,LKA,2020,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.691
+Sri Lanka,LKA,2019,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.424
+Sri Lanka,LKA,2018,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.107
+Sri Lanka,LKA,2017,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.847
+Sri Lanka,LKA,2016,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.738
+Sri Lanka,LKA,2015,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.572
+Sri Lanka,LKA,2014,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.325
+Sri Lanka,LKA,2013,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.164
+Sri Lanka,LKA,2012,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.778
+Sri Lanka,LKA,2011,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.224
+Sri Lanka,LKA,2010,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.862
+Sri Lanka,LKA,2009,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.696
+Sri Lanka,LKA,2008,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.879
+Sri Lanka,LKA,2007,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.954
+Sri Lanka,LKA,2006,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.823
+Sri Lanka,LKA,2005,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.391
+Sri Lanka,LKA,2004,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.22
+Sri Lanka,LKA,2003,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.659
+Sri Lanka,LKA,2002,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.314
+Sri Lanka,LKA,2001,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.71
+Sri Lanka,LKA,2000,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.774
+Sri Lanka,LKA,1999,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.926
+Sri Lanka,LKA,1998,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.633
+Sri Lanka,LKA,1997,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.477
+Sri Lanka,LKA,1996,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.481
+Sri Lanka,LKA,1995,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.316
+Sri Lanka,LKA,1994,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.207
+Sri Lanka,LKA,1993,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.079
+Sri Lanka,LKA,1992,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.502
+Sri Lanka,LKA,1991,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,64.844
+Sri Lanka,LKA,1990,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.198
+Sri Lanka,LKA,1989,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,62.808
+Sri Lanka,LKA,1988,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.2
+Sri Lanka,LKA,1987,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.438
+Sri Lanka,LKA,1986,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.559
+Sri Lanka,LKA,1985,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.638
+Sri Lanka,LKA,1984,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.694
+Sri Lanka,LKA,1983,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.946
+Sri Lanka,LKA,1982,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.083
+Sri Lanka,LKA,1981,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.929
+Sri Lanka,LKA,1980,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.67
+Sri Lanka,LKA,1979,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.249
+Sri Lanka,LKA,1978,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,64.68
+Sri Lanka,LKA,1977,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,64.256
+Sri Lanka,LKA,1976,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,63.772
+Sri Lanka,LKA,1975,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,63.318
+Sri Lanka,LKA,1974,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,62.979
+Sri Lanka,LKA,1973,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,62.849
+Sri Lanka,LKA,1972,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,62.726
+Sri Lanka,LKA,1971,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,62.184
+Sri Lanka,LKA,1970,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,62.49
+Sri Lanka,LKA,1969,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,62.276
+Sri Lanka,LKA,1968,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,62.007
+Sri Lanka,LKA,1967,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,61.703
+Sri Lanka,LKA,1966,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,61.355
+Sri Lanka,LKA,1965,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,61.036
+Sri Lanka,LKA,1964,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,60.688
+Sri Lanka,LKA,1963,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,60.392
+Sri Lanka,LKA,1962,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,60.048
+Sri Lanka,LKA,1961,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,59.611
+Sri Lanka,LKA,1960,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,59.065
