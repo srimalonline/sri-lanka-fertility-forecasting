@@ -177,6 +177,9 @@ class FertilityForecaster:
     
     def split_data(self, test_size=10):
         """Split data into train and test sets."""
+        # Ensure 'Year' column is numeric
+        self.fertility_data['Year'] = pd.to_numeric(self.fertility_data['Year'], errors='coerce')
+        
         # Use last 'test_size' years as test set
         split_year = self.fertility_data['Year'].max() - test_size + 1
         
@@ -188,6 +191,7 @@ class FertilityForecaster:
         print(f"Testing: {len(test_data)} observations ({test_data['Year'].min()}-{test_data['Year'].max()})")
         
         return train_data, test_data
+
     
     def fit_arima_model(self, train_data, test_data):
         """Fit ARIMA model with automatic order selection."""
